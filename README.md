@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex Albuquerque</h1>
+<h1 align="center">Olá! 👋 Eu sou o Alex Albuquerque</h1>
 <h3 align="center">Graduando de Economia e Apaixonado por Ciência e Análise de Dados</h3>
 
 📊 Atualmente estou trabalhando com análise e visualização **Programa de Desenvolvedores do Maranhão - PDF-MA**
