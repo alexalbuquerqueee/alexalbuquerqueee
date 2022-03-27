@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alex Albuquerque</h1>
 <h3 align="center">Graduando de Economia e Apaixonado por Ciência e Análise de Dados</h3>
 
-🔭 Atualmente estou trabalhando com análise e visualização **Programa de Desenvolvedores do Maranhão - PDF-MA**
+📊 Atualmente estou trabalhando com análise e visualização **Programa de Desenvolvedores do Maranhão - PDF-MA**
 
-🌱 Atualmente estou aprendendo **Python, SQl e Power BI**
+📗 Atualmente estou aprendendo **Python, SQl e Power BI**
 
-🤔 Estou procurando ajuda com **Python, SQL e Power BI**
+🤯 Estou procurando ajuda com **Python, SQL e Power BI**
 
-💬 Me pergunte sobre **Power Bi, Excel e Python**
+❓ Me pergunte sobre **Power Bi, Excel e Python**
 
 📫 Você me acha através do e-mail **alexbarrosalbuquerque@gmail.com**
 
-⚡ Aqui estão minhas experiências [https://www.linkedin.com/in/alex-albuquerque-7bb047183/](https://www.linkedin.com/in/alex-albuquerque-7bb047183/)
+💼 Aqui estão minhas experiências [https://www.linkedin.com/in/alex-albuquerque-7bb047183/](https://www.linkedin.com/in/alex-albuquerque-7bb047183/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
